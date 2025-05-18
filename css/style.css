@@ -70,3 +70,9 @@ html {
 .curiosities-container li {
   height: 30px;
 }
+
+/* Imagem bold */
+.img-bold {
+  font-weight: bold;
+  text-align: center;
+}
