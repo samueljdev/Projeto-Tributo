@@ -25,3 +25,9 @@ html {
 .main-paragraph {
   font-style: italic;
 }
+
+/* Imagem destaque */
+.featured-image {
+  text-align: center;
+  margin-top: 30px;
+}
