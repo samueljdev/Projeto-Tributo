@@ -43,3 +43,18 @@ html {
 .bold {
   font-weight: bold;
 }
+
+/* Quotes */
+.quotes-container {
+  background-color: #ddd;
+  padding: 30px;
+}
+
+.quotes-container blockquote {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.quotes-container p {
+  font-style: italic;
+}
